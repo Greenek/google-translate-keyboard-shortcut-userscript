@@ -35,15 +35,15 @@ Contributions are very welcome!
 
 ## Contributor Code of Conduct
 
-Please note that this project is released with a [Contributor Code of
-Conduct](http://contributor-covenant.org/). By participating in this project
-you agree to abide by its terms. 
+Please note that this project is released with a [Contributor Code of Conduct][code-of-conduct]. By participating in this project you agree to abide by its terms. 
 
 ## License
 
-This project is licensed under the terms of the [MIT license](./LICENSE).
+This project is licensed under the terms of the [MIT license][license].
 
+[code-of-conduct]: CODE_OF_CONDUCT.md
 [issues-new]: https://github.com/Greenek/google-translate-keyboard-shortcut-userscript/issues/new
+[license]: LICENSE
 [pull-request]: https://github.com/Greenek/google-translate-keyboard-shortcut-userscript/compare
 [script-github]: https://github.com/Greenek/google-translate-keyboard-shortcut-userscript/raw/master/Google_Translate_Keyboard_Shortcut.user.js
 [script-greasyfork]: https://greasyfork.org/en/scripts/21928-google-translate-keyboard-shortcut
