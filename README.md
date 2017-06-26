@@ -1,6 +1,6 @@
 # Google Translate Keyboard Shortcut
 
-[![GitHub release](https://img.shields.io/github/release/Greenek/google-translate-keyboard-shortcut-userscript.svg?label=user.js&link=https://raw.githubusercontent.com/Greenek/google-translate-keyboard-shortcut-userscript/master/Google_Translate_Keyboard_Shortcut.user.js)]()
+[![GitHub release](https://img.shields.io/github/release/Greenek/google-translate-keyboard-shortcut-userscript.svg?label=user.js)](https://github.com/Greenek/google-translate-keyboard-shortcut-userscript/raw/master/Google_Translate_Keyboard_Shortcut.user.js)
 
 ![Google Translate Keyboard Shortcut](./demo.gif)
 
@@ -45,6 +45,6 @@ This project is licensed under the terms of the [MIT license](./LICENSE).
 
 [issues-new]: https://github.com/Greenek/google-translate-keyboard-shortcut-userscript/issues/new
 [pull-request]: https://github.com/Greenek/google-translate-keyboard-shortcut-userscript/compare
-[script-github]: https://raw.githubusercontent.com/Greenek/google-translate-keyboard-shortcut-userscript/master/Google_Translate_Keyboard_Shortcut.user.js
+[script-github]: https://github.com/Greenek/google-translate-keyboard-shortcut-userscript/raw/master/Google_Translate_Keyboard_Shortcut.user.js
 [script-greasyfork]: https://greasyfork.org/en/scripts/21928-google-translate-keyboard-shortcut
 [script-openuserjs]: https://openuserjs.org/scripts/greenek/Google_Translate_Keyboard_Shortcut

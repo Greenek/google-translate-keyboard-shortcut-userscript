@@ -9,8 +9,8 @@
 // @homepageURL  https://github.com/Greenek/google-translate-keyboard-shortcut-userscript
 // @supportURL   https://github.com/Greenek/google-translate-keyboard-shortcut-userscript/issues
 // @icon         https://raw.githubusercontent.com/Greenek/google-translate-keyboard-shortcut-userscript/master/icon.png
-// @updateURL    https://raw.githubusercontent.com/Greenek/google-translate-keyboard-shortcut-userscript/master/Google_Translate_Keyboard_Shortcut.user.js
-// @downloadURL  https://raw.githubusercontent.com/Greenek/google-translate-keyboard-shortcut-userscript/master/Google_Translate_Keyboard_Shortcut.user.js
+// @updateURL    https://github.com/Greenek/google-translate-keyboard-shortcut-userscript/raw/master/Google_Translate_Keyboard_Shortcut.user.js
+// @downloadURL  https://github.com/Greenek/google-translate-keyboard-shortcut-userscript/raw/master/Google_Translate_Keyboard_Shortcut.user.js
 // @grant        none
 // @run-at       document-end
 // @include      http://translate.google.tld/*
