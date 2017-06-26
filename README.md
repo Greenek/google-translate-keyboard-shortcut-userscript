@@ -2,6 +2,8 @@
 
 [![GitHub release](https://img.shields.io/github/release/Greenek/google-translate-keyboard-shortcut-userscript.svg?label=user.js&link=https://raw.githubusercontent.com/Greenek/google-translate-keyboard-shortcut-userscript/master/Google_Translate_Keyboard_Shortcut.user.js)]()
 
+![Google Translate Keyboard Shortcut](./demo.gif)
+
 A userscript to quick swapping active languages in Google Translate with a keyboard shortcut (<kbd>Ctrl</kbd>+<kbd>S</kbd>).
 
 ## Getting Started
